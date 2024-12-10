@@ -1,8 +1,8 @@
-# SkillForge Academy
+# SkillForge Academy--admin--
 This is an official proxy of [SkillForge Academy Network](https://discord.gg/daH4qxaCMD).
 
 ## Games
-So far there is only one game. More will be added soon.
+Hey skillfoge admins here are the game we only have 1 rn!
 
 ## Credits
-SkillForge Academy uses [Ultraviolet](use my discord  https://discord.gg/daH4qxaCMD)
+SkillForge Academy,james wade jr,David,jason,tommy
